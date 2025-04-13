@@ -1,1 +1,1 @@
-# Analysis_Sentiment_Brainly
+# Analysis_Sentiment_Review_Duolingo
